@@ -1,0 +1,19 @@
+{
+  "name": "datingapp",
+  "version": "1.0.0",
+  "main": "apiroutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "datatables.net": "^1.10.19",
+    "express": "^4.16.4",
+    "urlencoded-parser": "^1.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
